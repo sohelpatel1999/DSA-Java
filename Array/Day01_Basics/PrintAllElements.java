@@ -1,4 +1,4 @@
-package Array;
+package Array.Day01_Basics;
 
 public class PrintAllElements {
     public static void main(String[] args) {

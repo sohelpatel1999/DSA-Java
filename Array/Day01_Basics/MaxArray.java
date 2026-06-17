@@ -1,4 +1,4 @@
-package Array;
+package Array.Day01_Basics;
 
 public class MaxArray {
     public static void main(String[] args) {
